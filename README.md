@@ -36,3 +36,11 @@ Cuenta con un recuadro estilo **editor de código** donde se muestran los partic
 ## 🖼️ Interfaz
 
 ### Recuadro para añadir participantes
+<img width="1238" height="664" alt="image" src="https://github.com/user-attachments/assets/d8c4d2bf-b7d0-48c9-82aa-c8925a45637f" />
+
+
+
+
+https://alex27ap.github.io/Challenge-Amigo-Secreto/
+
+
